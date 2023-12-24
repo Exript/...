@@ -1,12 +1,12 @@
 
 # 🌐About Me
-Hello! I'm Sezer Engin Özlem. I take pleasure in conducting in-depth research in the field of cybersecurity and continually enhancing my skills in this dynamic domain. I have a particular interest in security vulnerabilities and defense strategies.
+  Hello! I'm Sezer Engin Özlem. I take pleasure in conducting in-depth research in the field of cybersecurity and continually enhancing my skills in this dynamic domain. I have a particular interest in security vulnerabilities and defense strategies.
 
-🚀 I actively engage in cybersecurity research, ethical hacking, and penetration testing to gain hands-on experience. My goal is to stay abreast of the latest technologies and trends in the field.
+👀 I actively engage in cybersecurity research, ethical hacking, and penetration testing to gain hands-on experience. My goal is to stay abreast of the latest technologies and trends in the field.
 
 💡 I closely monitor developments in the cybersecurity ecosystem, write articles on security vulnerabilities, and constantly acquire new skills to enhance my knowledge in this area.
 
- I focus on areas such as network security, intrusion detection, penetration testing, and security policies. I strive to understand the complexity of the cyber world and contribute to building a more secure digital future.
+🚀 I focus on areas such as network security, intrusion detection, penetration testing, and security policies. I strive to understand the complexity of the cyber world and contribute to building a more secure digital future.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sengin-ozlem) 
